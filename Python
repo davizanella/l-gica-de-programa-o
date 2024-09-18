@@ -1,0 +1,19 @@
+nome = "Davi"
+idade = "15"
+
+
+
+
+print ("nome")
+print ("idade")
+
+nome = input ('digite seu nome?')
+peso = input ('qual é seu peso')
+print (nome, peso) 
+
+nota1 = input ('qual é sua nota?')
+nota2 = input ('qual é sua nota?')
+media = (nota1 + nota2) / 2
+print (media)
+ 
+
